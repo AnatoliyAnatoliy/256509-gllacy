@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Анатолий Прадид](https://up.htmlacademy.ru/htmlcss/15/user/256509).
-* Наставник: `Неизвестно`.
+* Наставник: [Альберт Шариков] (https://htmlacademy.ru/profile/insanegrv).
 
 ---
 
